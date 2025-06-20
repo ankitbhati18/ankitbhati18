@@ -25,6 +25,12 @@ Postman,Firebase,VScode,REST,Vercel,Git
 
 I'm always exploring new technologies and looking forward to collaborating on innovative projects that solve real-world problems.
 
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/ankit-bhati-6a1799255/
+
+- Email: ankitbhati1980@gmail.com
+
 <!--
 **ankitbhati18/ankitbhati18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
